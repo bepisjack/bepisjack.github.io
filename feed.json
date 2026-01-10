@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "bepisesports.com",
     "description": "",
-    "home_page_url": "https://bepisjack.github.io",
-    "feed_url": "https://bepisjack.github.io/feed.json",
+    "home_page_url": "https://bepisesports.com",
+    "feed_url": "https://bepisesports.com/feed.json",
     "user_comment": "",
-    "icon": "https://bepisjack.github.io/media/website/BEPIS_HIGHEST_QUALITY_2000x1600-1.png",
+    "icon": "https://bepisesports.com/media/website/BEPIS_HIGHEST_QUALITY_2000x1600-1.png",
     "author": {
         "name": "jack krueger"
     },
