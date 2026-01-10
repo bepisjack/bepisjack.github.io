@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bepisjack.github.io/sitemap.xml
